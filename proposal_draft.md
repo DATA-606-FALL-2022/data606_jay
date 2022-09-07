@@ -1,7 +1,15 @@
 # Draft Proposal for DATA 606
 
-**Name:** Jay Wang
-**Date:** 09/06/2022
+- **Name:** Jay Wang
+- **Date:** 09/06/2022
 
-## Explore Relationship between Wealth and Health
+## Project Title - Explore Relationship between Wealth and Health
+
+## Overview 
+
+## Data Source
+
+
+
+
 
